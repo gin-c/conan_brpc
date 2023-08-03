@@ -1,0 +1,1 @@
+CONAN_DISABLE_STRICT_MODE=1 conan create . jm/testing
